@@ -1,4 +1,4 @@
 LearnCtheHardWay
 ================
 
-Exercise files for http://c.learncodethehardway.org/
+My completion of the exercise files for http://c.learncodethehardway.org/
